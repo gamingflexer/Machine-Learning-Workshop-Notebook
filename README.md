@@ -18,7 +18,7 @@ This Jupyter Notebook is designed for a beginner-friendly machine learning works
 - Matplotlib
 - Scikit-learn
 
-##Setup
+## Setup
 - Clone this repository to your local machine
 - Open the terminal and navigate to the repository directory
 - Start Jupyter Notebook by running the command jupyter notebook
